@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 /* app styles */
+=======
+>>>>>>> 3f803a4bbea99e533d6741d4ace3a458f7b7a45d
 header {
   background: #444;
   color: #fff;
   padding: 20px;
+<<<<<<< HEAD
   font-family: helvetica;
   text-align: center;
 }
@@ -29,4 +33,25 @@ h2 {
   font-size: 20px;
   margin-bottom: 5px;
   color: #444;
+=======
+}
+
+h3 {
+  color: #fff;
+  background-color: black;
+  margin: 15px;
+  font-size: 20px;
+  font-style: italic;
+  font-family: serif;
+}
+
+img {
+  border: 3px dashed orange;
+  margin: 12px;
+}
+
+p {
+  color: green;
+  font-style: bold;
+>>>>>>> 3f803a4bbea99e533d6741d4ace3a458f7b7a45d
 }
